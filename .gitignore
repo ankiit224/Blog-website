@@ -26,4 +26,6 @@ backup_db_*.sqlite3
 
 # Mac/Linux system files
 .DS_Store
-Thumbs.db
+Thumbs.dbgit push origin master
+
+
