@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django database and logs
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.mo
+*.db
+
+# Environment variables
+.env
+
+# VS Code / PyCharm folders
+.vscode/
+.idea/
+
+# Media uploads
+/media/
+
+# Backup files
+backup_db_*.sqlite3
+
+# Mac/Linux system files
+.DS_Store
+Thumbs.db
